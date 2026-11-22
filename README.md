@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Nikita 👋
 
-<!--
-**nikilokk/nikilokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on **AI agents**, **Python automation**, and **modern web applications**.
 
-Here are some ideas to get you started:
+#### 🔭 Currently working on
+- **[Vanta](https://github.com/nikilokk/vanta)** — local multi-agent AI assistant with voice output, conversational memory, and productivity integrations.
+- **[Substrate Agent](https://github.com/nikilokk/substrate-agent)** — autonomous tooling and agentic workflows.
+- Full-stack web projects and custom productivity dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack
+- **Languages:** Python, JavaScript (ES6+), C++, SQL
+- **AI & Backend:** Local LLMs (Ollama), Multi-Agent Systems, REST APIs, MariaDB
+- **Frontend & Tools:** HTML/CSS, React, Git, Linux
+
+#### 📫 Reach me
+- **GitHub:** [@nikilokk](https://github.com/nikilokk)
+- **Telegram / Email:** @nikilokk0 / baranov.nikita777@gmail.com
