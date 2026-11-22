@@ -14,4 +14,4 @@ Software developer focused on **AI agents**, **Python automation**, and **modern
 
 #### Reach me
 - **GitHub:** [@nikilokk](https://github.com/nikilokk)
-- **Telegram / Email:** @nikilokk0 / baranov.nikita777@gmail.com
+- **Telegram / Email:** [@nikilokk0](https://telegram.com/nikilokk0 / baranov.nikita777@gmail.com
